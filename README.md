@@ -127,4 +127,3 @@ Applied Unix-based transformations for efficient data processing
 
 Built a repeatable and maintainable data pipeline suitable for production environments
 
-**Screenshots:**
